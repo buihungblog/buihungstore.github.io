@@ -1,2 +1,1 @@
-demo slide by<br />
-<img src="Capture.png" />
+http://buihungstore.github.io/
